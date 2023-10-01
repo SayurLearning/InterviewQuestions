@@ -5,7 +5,9 @@ Instructions:
 2. Write the problem stmt at the top.
 3. Comment your code.
 4. Include a few outputs from running your code. You can add it as a comment at the end of the code.
-5. Save the code in your github or Google drive and send us the link. Make sure the link is public so that we can view it.
+5. Save the code in your github or Google drive and
+ send us the link using the form https://forms.gle/jSj2g73znusN2jE57 . 
+ Make sure the link is public so that we can view it.
 6. Do not google answers.
 
 Questions:
