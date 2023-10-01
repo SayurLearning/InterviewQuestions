@@ -1,3 +1,14 @@
+Solve the following questions using any programming language you are familiar with.
+
+Instructions:
+1. Create a separate file foe each question. Name the file appropriately.
+2. Write the problem stmt at the top.
+3. Comment your code.
+4. Include a few outputs from running your code. You can add it as a comment at the end of the code.
+5. Save the code in your github or Google drive and send us the link. Make sure the link is public so that we can view it.
+
+Questions:
+
 1.Write a program for Collatz_conjecture.
 Collatz_conjecture means -  start with the input number. 
 For even number , divide by 2 (n/2)
@@ -7,7 +18,10 @@ output 8, 4,2, 1
 input is 9
 output 9,28,14,7,22,11,34,17,52,26,13,40,20,10,5,16,8,4,2,1
 
-2. In the above program, get two numbers as input. Print the number that has less number of steps to reach 1.
+Get two numbers as input. Print the number that has less number of steps to reach 1.
+
+2. You are writing an essay. You don't want the any word to appear very frequently. Write a program that will take your essay as input (maybe from a file) and print the number of times each unique word appears in your essay.
+
 3. No need to write a program. Just pseudocode is enough.Define a class for a instagram post. Define the properties and functions.
 Define which one will be private and which one public.
 4.
